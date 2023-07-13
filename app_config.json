@@ -4,5 +4,6 @@
   "adSaveButtonTapped": 4,
   "adDetailCount": 5,
   "adLibraryCount": 5,
+  "enableBackButtonAds": false,
   "freeColorSetAddCount": 3
 }
