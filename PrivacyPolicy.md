@@ -1,73 +1,102 @@
+# Privacy Policy
 
-# Paleto App Privacy Policy
-Effective date: December 31, 2025
+**Effective date:** 2025-12-31  
+**App name:** Paleto  
+**Contact:** appyoun@gmail.com
 
-Paleto ("us", "we", or "our") operates the Paleto mobile application (the "Service").
+This Privacy Policy explains how we collect, use, and share information when you use the Paleto mobile application (the “Service”).
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Paleto is managed through Free Privacy Policy.
+---
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+## 1. What we collect
 
-### Information Collection And Use
-We collect several different types of information for various purposes to provide and improve our Service to you.
+### 1.1 Information you provide
+- **Support inquiries:** If you contact us by email, we collect the information you include (e.g., email address, message contents) to respond.
 
-### Types of Data Collected
-Device information
-- type of device
-- OS version
+### 1.2 Information collected automatically
+Depending on your device and the Service configuration, we (and/or our service providers) may collect:
+- **Device information:** device model, OS version, app version, language, time zone
+- **Usage and diagnostics:** feature usage, crash logs, performance data
+- **Identifiers:** advertising identifier and/or other device identifiers (used for ads, analytics, and fraud prevention)
 
-example) iPhone X (iOS 11.0 )
+> Note: We do not require account registration.
 
-We collect the information when you send feedback via email.
+---
 
-### Use of Data
-Paleto uses the collected data for various purposes:
+## 2. How we use information
+We use collected information to:
+- Provide and operate core features (e.g., detecting colors from photos/camera, saving palettes) :contentReference[oaicite:2]{index=2}
+- Improve app stability and performance (debugging, crash analysis)
+- Show ads (free version) and measure ad performance
+- Respond to support requests
 
-- To provide and maintain the Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer care and support
-- To detect, prevent and address technical issues
+---
 
-### Transfer Of Data
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+## 3. Photos & Camera
+Paleto can access:
+- **Photos/Media Library** (to pick an image and extract colors)
+- **Camera** (to capture an image and extract colors) :contentReference[oaicite:3]{index=3}
 
-If you are located outside the Republic of Korea (South Korea) and choose to provide information to us, we may transfer and process your data, including Personal Data, in the Republic of Korea.
+**How it works**
+- Images are used to extract colors and create palettes.
+- We do not require you to upload your photos to use color detection, unless a specific feature explicitly asks you to share/export.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+You can disable these permissions anytime in your device settings, but some features may not work.
 
-Paleto will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+---
 
-### Disclosure Of Data
-Legal Requirements
-Paleto may disclose your Personal Data in the good faith belief that such action is necessary to:
+## 4. Sharing / Export
+If you choose to share colors/palettes (e.g., via system share), the content is handled by the sharing app/service you choose, and their privacy policy applies.
 
-- To comply with a legal obligation
-- To protect and defend the rights or property of Paleto
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+---
 
-### Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+## 5. Third-party services (Ads / Analytics)
+The Service may use third-party SDKs for:
+- Advertising (to show ads in the free version)
+- Analytics and crash reporting
 
-### Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+These providers may collect identifiers and usage/diagnostics data to provide their services.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+**Examples (edit to match what you actually use):**
+- Google AdMob (Advertising)
+- Google Analytics for Firebase (Analytics)
+- Firebase Crashlytics (Crash reporting)
 
-### Links To Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+> If you don’t use any of the above, remove them. If you use others, add them.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+---
 
-### Changes To This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 6. Data retention
+- We retain automatically collected diagnostics/usage data only as long as needed for the purposes described above.
+- Support emails are retained as long as necessary to respond and for record-keeping, unless you request deletion where applicable.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+---
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+## 7. Your choices & rights
+Depending on your location, you may have rights to access, delete, or object to processing of your personal data.
 
-### Contact Information
-If you have any questions about this Privacy Policy, please contact us:
+You can also:
+- Reset/limit the advertising identifier in your device settings
+- Opt out of certain analytics where supported by your OS/app settings
 
-appyoun@gmail.com
+To request deletion or inquire about your data, contact: **appyoun@gmail.com**
+
+---
+
+## 8. Security
+We take reasonable measures to protect information. However, no method of transmission or storage is 100% secure.
+
+---
+
+## 9. International data transfers (South Korea)
+If you are located outside the **Republic of Korea (South Korea)** and choose to provide information to us, please note that we may transfer and process the data, including Personal Data, in the **Republic of Korea (South Korea)**.
+
+---
+
+## 10. Changes to this policy
+We may update this Privacy Policy from time to time. We will update the “Effective date” at the top when changes are made.
+
+---
+
+## 11. Contact
+If you have any questions, contact: **appyoun@gmail.com**
