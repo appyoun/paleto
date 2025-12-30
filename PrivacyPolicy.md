@@ -31,7 +31,7 @@ Paleto uses the collected data for various purposes:
 ### Transfer Of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you are located outside Korea, Democratic People's Republic of and choose to provide information to us, please note that we transfer the data, including Personal Data, to Korea, Democratic People's Republic of and process it there.
+If you are located outside the Republic of Korea (South Korea) and choose to provide information to us, we may transfer and process your data, including Personal Data, in the Republic of Korea.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
