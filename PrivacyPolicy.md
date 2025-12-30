@@ -1,102 +1,47 @@
 # Privacy Policy
 
+
 **Effective date:** 2025-12-31  
-**App name:** Paleto  
+**App:** Paleto  
+**Developer/Operator:** appyoun  
 **Contact:** appyoun@gmail.com
 
-This Privacy Policy explains how we collect, use, and share information when you use the Paleto mobile application (the “Service”).
+This Privacy Policy explains how information is collected and used when you use Paleto (the “Service”).
 
----
+## 1. Information We Collect
+- **Support inquiries:** email address, message contents, attachments you provide.
+- **Automatically collected data:** device/app info, usage events, diagnostics (crash/performance), identifiers (e.g., advertising ID) for ads/analytics and fraud prevention.
 
-## 1. What we collect
+## 2. How We Use Information
+To operate core features, improve stability, show and measure ads, provide purchases/subscriptions, and respond to support.
 
-### 1.1 Information you provide
-- **Support inquiries:** If you contact us by email, we collect the information you include (e.g., email address, message contents) to respond.
+## 3. Photos/Camera
+The Service may request access to your Photos/Media Library and Camera to detect colors. Processing is generally performed on-device unless a feature explicitly asks you to upload/share.
 
-### 1.2 Information collected automatically
-Depending on your device and the Service configuration, we (and/or our service providers) may collect:
-- **Device information:** device model, OS version, app version, language, time zone
-- **Usage and diagnostics:** feature usage, crash logs, performance data
-- **Identifiers:** advertising identifier and/or other device identifiers (used for ads, analytics, and fraud prevention)
+## 4. Sharing/Export
+If you share/export content, the destination app/service’s policies apply.
 
-> Note: We do not require account registration.
+## 5. Purchases
+In-app purchases/subscriptions are processed by Apple/Google. We do not store your payment card details.
 
----
+## 6. Third-Party SDKs We Use (Actual list)
+- **Ads:** Google Mobile Ads (AdMob) (`google_mobile_ads`)
+- **Analytics:** Firebase Analytics (`firebase_analytics`, `firebase_core`)
+- **Crash reporting:** Firebase Crashlytics (`firebase_crashlytics`, `firebase_core`)
+- **IAP:** Flutter In-App Purchase (`in_app_purchase`, `in_app_purchase_storekit`)
+- **Device/App info:** `device_info_plus`, `package_info_plus`
+- **ATT (iOS):** `app_tracking_transparency` (may request tracking permission for advertising measurement/personalization)
 
-## 2. How we use information
-We use collected information to:
-- Provide and operate core features (e.g., detecting colors from photos/camera, saving palettes) :contentReference[oaicite:2]{index=2}
-- Improve app stability and performance (debugging, crash analysis)
-- Show ads (free version) and measure ad performance
-- Respond to support requests
+These providers may collect identifiers, device/app info, usage and diagnostics data as needed to provide their services.
 
----
+## 7. Data Retention
+We retain data only as long as necessary for the purposes described above, subject to legal/platform requirements.
 
-## 3. Photos & Camera
-Paleto can access:
-- **Photos/Media Library** (to pick an image and extract colors)
-- **Camera** (to capture an image and extract colors) :contentReference[oaicite:3]{index=3}
+## 8. Your Rights
+You may request access/deletion/objection depending on your jurisdiction. Contact: appyoun@gmail.com
 
-**How it works**
-- Images are used to extract colors and create palettes.
-- We do not require you to upload your photos to use color detection, unless a specific feature explicitly asks you to share/export.
+## 9. International Transfers (South Korea)
+If you are located outside the Republic of Korea (South Korea), your data may be transferred to and processed in the Republic of Korea.
 
-You can disable these permissions anytime in your device settings, but some features may not work.
-
----
-
-## 4. Sharing / Export
-If you choose to share colors/palettes (e.g., via system share), the content is handled by the sharing app/service you choose, and their privacy policy applies.
-
----
-
-## 5. Third-party services (Ads / Analytics)
-The Service may use third-party SDKs for:
-- Advertising (to show ads in the free version)
-- Analytics and crash reporting
-
-These providers may collect identifiers and usage/diagnostics data to provide their services.
-
-**Examples (edit to match what you actually use):**
-- Google AdMob (Advertising)
-- Google Analytics for Firebase (Analytics)
-- Firebase Crashlytics (Crash reporting)
-
-> If you don’t use any of the above, remove them. If you use others, add them.
-
----
-
-## 6. Data retention
-- We retain automatically collected diagnostics/usage data only as long as needed for the purposes described above.
-- Support emails are retained as long as necessary to respond and for record-keeping, unless you request deletion where applicable.
-
----
-
-## 7. Your choices & rights
-Depending on your location, you may have rights to access, delete, or object to processing of your personal data.
-
-You can also:
-- Reset/limit the advertising identifier in your device settings
-- Opt out of certain analytics where supported by your OS/app settings
-
-To request deletion or inquire about your data, contact: **appyoun@gmail.com**
-
----
-
-## 8. Security
-We take reasonable measures to protect information. However, no method of transmission or storage is 100% secure.
-
----
-
-## 9. International data transfers (South Korea)
-If you are located outside the **Republic of Korea (South Korea)** and choose to provide information to us, please note that we may transfer and process the data, including Personal Data, in the **Republic of Korea (South Korea)**.
-
----
-
-## 10. Changes to this policy
-We may update this Privacy Policy from time to time. We will update the “Effective date” at the top when changes are made.
-
----
-
-## 11. Contact
-If you have any questions, contact: **appyoun@gmail.com**
+## 10. Changes
+We may update this Policy and change the effective date above.
