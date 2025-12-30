@@ -1,71 +1,63 @@
-# End-User License Agreement (EULA) of Paleto
+# End-User License Agreement (EULA) — Paleto
 
-This End-User License Agreement ("EULA") is a legal agreement between you and **appyoun**
+**Effective Date:** 2025-12-31  
+**Developer/Operator:** appyoun  
+**Contact:** appyoun@gmail.com
 
-This EULA agreement governs your acquisition and use of our Paleto software ("Software") directly from appyoun or indirectly through a appyoun authorized reseller or distributor (a "Reseller").
+This EULA is a legal agreement between you (“User”) and appyoun (“Developer”) governing your use of the Paleto mobile application (the “App”). By installing or using the App, you agree to this EULA.
 
-Please read this EULA agreement carefully before completing the installation process and using the Paleto software. It provides a license to use the Paleto software and contains warranty information and liability disclaimers.
+---
 
-If you register for a free trial of the Paleto software, this EULA agreement will also govern that trial. Installing or using the Paleto software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+## 1. License Grant
+A limited, non-exclusive, non-transferable, non-sublicensable, revocable license is granted to use the App for personal, non-commercial purposes on devices you own or control.
 
-If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software.
+## 2. Restrictions
+You may not (except where permitted by law):
+- Copy, modify, or create derivative works of the App.
+- Reverse engineer, decompile, or attempt to derive the source code.
+- Sell, rent, lease, distribute, or commercially exploit the App.
+- Remove proprietary notices or use the App unlawfully.
 
-This EULA agreement shall apply only to the Software supplied by appyoun herewith regardless of whether other software is referred to or described herein. The terms also apply to any updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+## 3. Ownership
+The App and all IP rights remain with the Developer and/or licensors.
 
-## No Warranty. 
-YOUR USE OF THE MOBILE APP IS AT YOUR SOLE RISK. THE MOBILE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. PALETO EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+## 4. Updates
+The Developer may update or change features for improvement, security, or compliance.
 
-## License Grant
-**appyoun** hereby grants you a personal, non-transferable, non-exclusive licence to use the Paleto software on your devices in accordance with the terms of this EULA agreement.
+## 5. In-App Purchases & Subscriptions (Actual offering types)
+The App may offer:
+- **Subscriptions:** monthly and/or yearly plans (auto-renewing unless canceled).
+- **Non-consumable purchases:** lifetime access and/or one-time purchase products (non-recurring).
 
-You are permitted to load the Paleto software (for example a mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Paleto software.
+**Billing & management**
+- Payments are processed by Apple/Google (store provider).
+- You can manage/cancel subscriptions in your store account settings (uninstalling may not cancel).
+- Refunds are subject to the store’s refund policy and applicable law.
 
-You are not permitted to:
+## 6. Ads
+The free version may display ads. Some paid offerings may remove ads as described on the purchase screen.
 
-- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
-- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
-- Allow any third party to use the Software on behalf of or for the benefit of any third party
-- Use the Software in any way which breaches any applicable local, national or international law
-- Use the Software for any purpose that appyoun considers is a breach of this EULA agreement
+## 7. Third-Party Services
+The App may use third-party SDKs/services including:
+- Google Mobile Ads (AdMob) (`google_mobile_ads`)
+- Firebase Analytics (`firebase_analytics`)
+- Firebase Crashlytics (`firebase_crashlytics`)
+- In-app purchase libraries (`in_app_purchase`, `in_app_purchase_storekit`)
 
-## Intellectual Property and Ownership
-**appyoun** shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of appyoun.
+Third-party services may have their own terms/policies.
 
-**appyoun** reserves the right to grant licences to use the Software to third parties.
+## 8. Privacy
+Privacy Policy:
+https://github.com/appyoun/paleto/blob/master/PrivacyPolicy.md
 
-## In App Purchases
+## 9. Disclaimer
+THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE” TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-From time to time, Paleto App may offer additional products and services for purchase through the App Store or Google Play store or other application platforms ("in app purchases"). 
+## 10. Limitation of Liability
+To the maximum extent permitted by law, the Developer is not liable for indirect or consequential damages. The Developer’s total liability will not exceed the amount you paid (if any) for the App/IAP in the 12 months preceding the claim.
 
-If you choose to make an in app purchase, you will be prompted to enter details for your account with the mobile platform you are using (e.g., Apple, etc.) ("your IAP Account"), 
-and your IAP Account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your IAP Account. 
+## 11. Termination
+You may stop using the App anytime. The Developer may terminate your rights if you materially breach this EULA.
 
-If you purchase an auto-recurring periodic subscription through an in app purchase, your IAP Account will be billed continuously for the subscription until you cancel in accordance with the platform terms. 
-
-In call cases, please refer to the terms of your application platform which apply to your in app purchases. 
-
-If you purchase an auto-recurring periodic subscription through an in app purchase, your IAP Account will be billed continuously for the subscription until you cancel. 
-
-After your initial subscription commitment period, and again after any subsequent subscription period, your subscription will automatically continue for an additional equivalent period, at the price you agreed to when subscribing. 
-
-If you do not wish your subscription to renew automatically, or if you want to change or terminate your subscription, you will need to log in to your IAP account and follow instructions to cancel your subscription, even if you have otherwise deleted your account with us or if you have deleted the Paleto App application from your device. 
-
-Deleting your account on Paleto App or deleting the Paleto application from your device does not cancel your subscription. Paleto App will retain all funds charged to your IAP Account until you cancel your subscription through your IAP Account. 
-
-Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.
-
-Generally, all charges for purchases are nonrefundable, and there are no refunds or credits for partially used periods. We may make an exception if the laws applicable in your jurisdiction provide for refunds. For subscribers residing in the EU or European Economic Area, in accordance with local law, you are entitled to a full refund during the 14 days after the subscription begins. Please note that this 14-day period commences when the subscription starts.
-
-To request a refund, go to iTunes, click on your Apple ID, select "Purchase history", find the transaction and hit "Report Problem".
-
-## Termination
-This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to **appyoun**.
-
-It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
-
-## Governing Law
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of korea.
-
-## Contact Information
-appyoun@gmail.com
+## 12. Governing Law
+This EULA is governed by the laws of the **Republic of Korea (South Korea)**. Disputes shall be subject to the exclusive jurisdiction of the courts in Seoul, Republic of Korea, unless mandatory law provides otherwise.
