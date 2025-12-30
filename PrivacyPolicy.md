@@ -1,6 +1,6 @@
 
 # Paleto App Privacy Policy
-Effective date: October 28, 2018
+Effective date: December 31, 2025
 
 Paleto ("us", "we", or "our") operates the Paleto mobile application (the "Service").
 
