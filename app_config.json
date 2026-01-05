@@ -1,9 +1,9 @@
 {
   "force_version": "2.9.0",
-  "adBlendCount": 16,
-  "adSaveButtonTapped": 6 ,
-  "adDetailCount": 7,
-  "adLibraryCount": 7,
+  "adBlendCount": 20,
+  "adSaveButtonTapped": 8,
+  "adDetailCount": 8,
+  "adLibraryCount": 8,
   "enableBackButtonAds": false,
   "freeColorSetAddCount": 3,
   "freeFolderCount": 2
